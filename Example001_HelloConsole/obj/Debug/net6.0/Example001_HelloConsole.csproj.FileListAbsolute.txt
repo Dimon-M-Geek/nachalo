@@ -1,0 +1,15 @@
+D:\Войти в Айти\курс 2 Знакомство с программированием\начало\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.exe
+D:\Войти в Айти\курс 2 Знакомство с программированием\начало\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.deps.json
+D:\Войти в Айти\курс 2 Знакомство с программированием\начало\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.runtimeconfig.json
+D:\Войти в Айти\курс 2 Знакомство с программированием\начало\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.dll
+D:\Войти в Айти\курс 2 Знакомство с программированием\начало\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.pdb
+D:\Войти в Айти\курс 2 Знакомство с программированием\начало\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.csproj.AssemblyReference.cache
+D:\Войти в Айти\курс 2 Знакомство с программированием\начало\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Войти в Айти\курс 2 Знакомство с программированием\начало\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.AssemblyInfoInputs.cache
+D:\Войти в Айти\курс 2 Знакомство с программированием\начало\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.AssemblyInfo.cs
+D:\Войти в Айти\курс 2 Знакомство с программированием\начало\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.csproj.CoreCompileInputs.cache
+D:\Войти в Айти\курс 2 Знакомство с программированием\начало\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.dll
+D:\Войти в Айти\курс 2 Знакомство с программированием\начало\Example001_HelloConsole\obj\Debug\net6.0\refint\Example001_HelloConsole.dll
+D:\Войти в Айти\курс 2 Знакомство с программированием\начало\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.pdb
+D:\Войти в Айти\курс 2 Знакомство с программированием\начало\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.genruntimeconfig.cache
+D:\Войти в Айти\курс 2 Знакомство с программированием\начало\Example001_HelloConsole\obj\Debug\net6.0\ref\Example001_HelloConsole.dll
